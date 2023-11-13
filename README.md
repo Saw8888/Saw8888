@@ -1,4 +1,4 @@
-### Hi, I'm [Gui ](https://Saw8888.github.io) 👋
+### Hi, I'm [Gui ](https://github.com/Saw8888) 👋
 
 I just code for fun and do a wide variety of projects I feel like doing. I am currently mainly using c but I am learning other programming languages. 
 
@@ -21,6 +21,7 @@ I just code for fun and do a wide variety of projects I feel like doing. I am cu
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![NPM](https://img.shields.io/badge/NPM-FF0000?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
+![Make](https://img.shields.io/badge/make-FFA500?style=for-the-badge&logo=make&logoColor=white)&nbsp;
 
 #### IDEs
 
