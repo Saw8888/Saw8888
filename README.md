@@ -14,12 +14,12 @@ I just code for fun and do a wide variety of projects I feel like doing. I am cu
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white)&nbsp;
 
 #### Tools and Technologies
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white)&nbsp;
 ![NPM](https://img.shields.io/badge/NPM-FF0000?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
 ![Make](https://img.shields.io/badge/make-FFA500?style=for-the-badge&logo=make&logoColor=white)&nbsp;
 ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)&nbsp;
